@@ -6,6 +6,6 @@ This folder contain 5 different files with data that were used to solve the assi
 
 3. Transpose.awk: is a .awk format file with 4 kb the encoding type os awk script, ACSII text. It has 15 lines, 46 words and 353 characters.
 
-4 UNIX_Assignment.md: is a md format file with 56 kb of size. This file contain the information about the assignment in a readable format pdf.
+4. UNIX_Assignment.md: is a md format file with 56 kb of size. This file contain the information about the assignment in a readable format pdf.
 
-5 UNIX_Assignment.pdf: is a .md format file with 8 kb of size. the encoding type is ASCII format. This file contain the information about the assignment in a readable format md (mark down)
+5. UNIX_Assignment.pdf: is a .md format file with 8 kb of size. the encoding type is ASCII format. This file contain the information about the assignment in a readable format md (mark down)
